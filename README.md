@@ -4,9 +4,11 @@ Juego de estrategia en la Patagonia · El Gallo McFlay. © 2026 Facundo. Todos l
 
 ## Instalar (Windows 10 u 11, 64 bits)
 
-1. Bajá **[Instalar-Trawun-Mapu.zip](https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/Instalar-Trawun-Mapu.zip)** (es chiquito) y abrilo.
-2. Hacé doble clic en `Instalar Trawun Mapu.cmd`. Si Windows dice "protegió su PC": **Más información → Ejecutar de todas formas**.
+1. Bajá **[Instalar Trawun Mapu.exe](https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/Instalar%20Trawun%20Mapu.exe)** (6 MB).
+2. Abrilo. Si Windows dice "protegió su PC": **Más información → Ejecutar de todas formas**.
 3. Apretá Enter: baja el juego (unos 115 MB) desde acá mismo, lo instala en tu carpeta de usuario (no pide administrador) y te deja el acceso directo en el escritorio.
+
+(Si el .exe no te deja, está la misma cosa como [Instalar-Trawun-Mapu.zip](https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/Instalar-Trawun-Mapu.zip): adentro hay un `.cmd` que hace lo mismo.)
 
 Las actualizaciones después se bajan desde adentro del juego: **Menú → Buscar actualizaciones**.
 
