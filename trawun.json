@@ -1,7 +1,7 @@
 {
- "version": "0.50.31",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.31/index.html",
- "sha256": "73f2fd60292a3e1fa4f98208b6e61b41e7454cef72c08546b4c5b70d66d92bac",
- "bytes": 6291122,
- "notas": "Autoguardado en red (lo guarda el que creó la sala; al cargarlo sin red, los otros pasan a ser computadora). La niebla la decide el mapa al crear la partida, ya no está en Opciones."
+ "version": "0.50.32",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.32/index.html",
+ "sha256": "15a897fd369d311e1b9d4d38319a0afaea40528d22b98f59def4ec93e9a06e17",
+ "bytes": 6295672,
+ "notas": "Volver a jugar en red una partida guardada: el que creó la sala la carga, abre una sala nueva con los mismos lugares y los amigos entran con el código."
 }
