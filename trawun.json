@@ -1,7 +1,7 @@
 {
- "version": "0.50.44",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.44/index.html",
- "sha256": "27eb896a57478db91e858fefa87a0eed822fb505035be45e487d51fb65473a02",
- "bytes": 6331051,
- "notas": "Caravanas que salen solas a comerciar con la feria aliada; panel de Hacer gente / Aprender más chico y ordenado; Shift + clic o recuadro suma a lo elegido."
+ "version": "0.50.45",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.45/index.html",
+ "sha256": "0a75460d4de1b5957157223c97b3362bb1fb959d28d320f99c83ab4599b2df5c",
+ "bytes": 6333389,
+ "notas": "La computadora Difícil pelea de verdad: sus aldeanos ya no quedan parados para siempre después de refugiarse, no se pasa media partida ahorrando para la era (y cambia en la feria lo que le sobra por lo que le falta), sigue haciendo viviendas y con recursos de sobra arma un ejército más grande."
 }
