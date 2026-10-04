@@ -1,7 +1,7 @@
 {
- "version": "0.50.39",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.39/index.html",
- "sha256": "88785d0c1b4fc4f921250c7728ae902cc7fc7e7df521d486a49c6dbdcd2c022b",
- "bytes": 6315208,
- "notas": "Diagnóstico: mide si el canvas va por la placa o por CPU; menú más liviano"
+ "version": "0.50.40",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.40/index.html",
+ "sha256": "b7c9e17a00e1cfef14b3b7ee2aaba8d75f617d71a30d9f169bca0af88e1cf2da",
+ "bytes": 6317317,
+ "notas": "Diagnóstico por partes (qué parte de la lógica y del dibujo tarda); el HUD no se redibuja si no cambió"
 }
