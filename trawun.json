@@ -1,7 +1,7 @@
 {
- "version": "0.50.23",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.23/index.html",
- "sha256": "a37070587114d8392397ec861becf5853c6c2466265a958b77621dfbff2cb61c",
- "bytes": 6269631,
- "notas": "Ocho mapas de Neuquén: Lanín, Aluminé, Copahue, Lácar, la Confluencia, Domuyo, Auca Mahuida y Nahuel Huapi, con sus nombres."
+ "version": "0.50.24",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.24/index.html",
+ "sha256": "9423a33c720e7ad9eb950fea9f0eb83cdfcccf0a80e80d29e6db09e378c1f6f9",
+ "bytes": 6276926,
+ "notas": "Parlamento más difícil y la computadora arma y rompe alianzas sola; regiones contra trabadas; máximo 3 por árbol arreglado."
 }
