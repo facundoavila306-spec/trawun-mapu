@@ -1,7 +1,7 @@
 {
- "version": "0.50.33",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.33/index.html",
- "sha256": "35f3caf7823cc1324c9fc887f1d09cd773d1141e2b5c17b068c2abdcf5c71dd7",
- "bytes": 6301242,
- "notas": "Fluidez: la gente ya no camina en el lugar ni se empuja (los que juntaban piñones pedían camino en cada cuadro y dejaban sin camino a los demás), guanacos sin trote en el lugar, menos tirones (los dibujos de los edificios se hornean antes de verse), zoom entero con la placa"
+ "version": "0.50.34",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.34/index.html",
+ "sha256": "f1c03ebc861709f26b9ad18e8fdd87b1ad9a205dc99903a3a213db60187908bb",
+ "bytes": 6302849,
+ "notas": "Ahora sí se alcanza al que huye: el guerrero cuerpo a cuerpo pega desde al lado (antes lo empujaba sin pegarle), el que tira de lejos no corta el impulso si el otro sigue cerca y la flecha apunta a donde va a estar"
 }
