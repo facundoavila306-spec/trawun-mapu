@@ -1,7 +1,7 @@
 {
- "version": "0.50.30",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.30/index.html",
- "sha256": "ce48df47f6eae6d77021ddab35ce6644517887d5f7650b4a8d898a17641a97e4",
- "bytes": 6289889,
- "notas": "Sin tirones: al empezar una obra ya no replanea toda la gente a la vez, y hay un tope de búsquedas de camino por cuadro."
+ "version": "0.50.31",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.31/index.html",
+ "sha256": "73f2fd60292a3e1fa4f98208b6e61b41e7454cef72c08546b4c5b70d66d92bac",
+ "bytes": 6291122,
+ "notas": "Autoguardado en red (lo guarda el que creó la sala; al cargarlo sin red, los otros pasan a ser computadora). La niebla la decide el mapa al crear la partida, ya no está en Opciones."
 }
