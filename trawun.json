@@ -1,7 +1,7 @@
 {
- "version": "0.50.38",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.38/index.html",
- "sha256": "c53cf2d2eb9efb6ce9ad7f76b04dc54ad0a1c95423308dc0737165b5fc32a8a4",
- "bytes": 6312313,
- "notas": "La música de calma descansa 30-60 s entre vuelta y vuelta"
+ "version": "0.50.39",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.39/index.html",
+ "sha256": "88785d0c1b4fc4f921250c7728ae902cc7fc7e7df521d486a49c6dbdcd2c022b",
+ "bytes": 6315208,
+ "notas": "Diagnóstico: mide si el canvas va por la placa o por CPU; menú más liviano"
 }
