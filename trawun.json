@@ -1,7 +1,7 @@
 {
- "version": "0.50.26",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.26/index.html",
- "sha256": "79a100a6ce5a30c0f06e60e2e9279e9975b9ba234608a33eb4faa6b109e709a5",
- "bytes": 6283294,
- "notas": "Arreglo: el que tenía el juego copiado de otra compu se quedaba en la sala; aviso si el anfitrión tiene otra versión."
+ "version": "0.50.27",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.27/index.html",
+ "sha256": "ee8d5649e221128b60e9b53043115699daf9a7fd8de011a98fa4997b082793b3",
+ "bytes": 6284522,
+ "notas": "Online más fluido: la gente se mueve pareja entre fotos, red más liviana y la calidad no se baja sola jugando en red."
 }
