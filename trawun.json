@@ -1,7 +1,7 @@
 {
- "version": "0.50.28",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.28/index.html",
- "sha256": "8f43acc6f18901ae053c1da2901d088db631b196d7757265eec7104d6eff70cf",
- "bytes": 6285260,
- "notas": "Bordes del mapa: en vez de triángulos negros se ve el terreno que sigue, más oscuro."
+ "version": "0.50.29",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.29/index.html",
+ "sha256": "2b85d3bba818a3e0d1b562566c08c62519d97c82c661f2e39f97425fb1eb4ef5",
+ "bytes": 6288571,
+ "notas": "Nada se queda trabado: el puma vuelve a su guarida rodeando las piedras, los animales buscan camino si chocan, y el que queda adentro de algo sale caminando."
 }
