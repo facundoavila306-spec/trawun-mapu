@@ -1,7 +1,7 @@
 {
- "version": "0.50.20",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.20/index.html",
- "sha256": "092a409aa4b0d0d5037bbd9346ecfef988bb3bcfbedb33333a6f411d1446a8de",
- "bytes": 6224997,
- "notas": "Tranqueras: elegí quién pasa (tu gente y aliados, sólo tu gente o cerrada). Al terminar un depósito, los constructores se ponen a juntar al lado."
+ "version": "0.50.21",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.21/index.html",
+ "sha256": "260b20670e8d2b80c67d115ece37d26b775683d4ffbfe78851c1d0339b6088be",
+ "bytes": 6229390,
+ "notas": "Al terminar una obra siguen con la de al lado; hasta 3 aldeanos en el mismo árbol o piedra; velocidad del mapa en Opciones; cartelito al señalar las mejoras."
 }
