@@ -1,7 +1,7 @@
 {
- "version": "0.50.37",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.37/index.html",
- "sha256": "7bf8209e4ce615ce68ee34c4f008cb82efdb5985a3869debb23438c7b2e0e63a",
- "bytes": 6311567,
- "notas": "Dos músicas de combate nuevas que se turnan (combate1 y combate2)"
+ "version": "0.50.38",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.38/index.html",
+ "sha256": "c53cf2d2eb9efb6ce9ad7f76b04dc54ad0a1c95423308dc0737165b5fc32a8a4",
+ "bytes": 6312313,
+ "notas": "La música de calma descansa 30-60 s entre vuelta y vuelta"
 }
