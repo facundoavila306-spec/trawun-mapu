@@ -1,7 +1,7 @@
 {
- "version": "0.50.36",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.36/index.html",
- "sha256": "18e1c9237d90aaee8a6d1b91ec9db8140c6e9e4bbd490de5a585cb61db698b8a",
- "bytes": 6310103,
- "notas": "La música de batalla suena sólo cuando pelea lo tuyo, no cuando atacan al aliado"
+ "version": "0.50.37",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.37/index.html",
+ "sha256": "7bf8209e4ce615ce68ee34c4f008cb82efdb5985a3869debb23438c7b2e0e63a",
+ "bytes": 6311567,
+ "notas": "Dos músicas de combate nuevas que se turnan (combate1 y combate2)"
 }
