@@ -1,7 +1,7 @@
 {
- "version": "0.50.41",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.41/index.html",
- "sha256": "2cdbff1220d8d3655ccaba7100c6286cb9fdcc112e01db048ea06fd2c7e60ee5",
- "bytes": 6321776,
- "notas": "Tope de zoom según la pantalla (alejarse de más trababa, peor en monitores grandes); F8 copia el estado del elegido para reportar trabas"
+ "version": "0.50.42",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.42/index.html",
+ "sha256": "315d66b7d800b8ab316fc17efa1ce6cefd8ad5e23a617af896c77564cc2d82e7",
+ "bytes": 6322500,
+ "notas": "Las tranqueras se cruzan de nuevo (el que pisaba su propia puerta era sacado hacia afuera)"
 }
