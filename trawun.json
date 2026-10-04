@@ -1,7 +1,7 @@
 {
- "version": "0.50.32",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.32/index.html",
- "sha256": "15a897fd369d311e1b9d4d38319a0afaea40528d22b98f59def4ec93e9a06e17",
- "bytes": 6295672,
- "notas": "Volver a jugar en red una partida guardada: el que creó la sala la carga, abre una sala nueva con los mismos lugares y los amigos entran con el código."
+ "version": "0.50.33",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.33/index.html",
+ "sha256": "35f3caf7823cc1324c9fc887f1d09cd773d1141e2b5c17b068c2abdcf5c71dd7",
+ "bytes": 6301242,
+ "notas": "Fluidez: la gente ya no camina en el lugar ni se empuja (los que juntaban piñones pedían camino en cada cuadro y dejaban sin camino a los demás), guanacos sin trote en el lugar, menos tirones (los dibujos de los edificios se hornean antes de verse), zoom entero con la placa"
 }
