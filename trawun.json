@@ -1,7 +1,7 @@
 {
- "version": "0.50.35",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.35/index.html",
- "sha256": "10f2d8a138e59b38421f3e068b5ab54c2b07b13a5be4c60c273d5377f12dcb36",
- "bytes": 6309804,
- "notas": "Opciones → Diagnóstico de rendimiento (mide 20 s y arma un texto para mandar)"
+ "version": "0.50.36",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.36/index.html",
+ "sha256": "18e1c9237d90aaee8a6d1b91ec9db8140c6e9e4bbd490de5a585cb61db698b8a",
+ "bytes": 6310103,
+ "notas": "La música de batalla suena sólo cuando pelea lo tuyo, no cuando atacan al aliado"
 }
