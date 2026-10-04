@@ -1,7 +1,7 @@
 {
- "version": "0.50.22",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.22/index.html",
- "sha256": "27d2ac93adfae2ba0f8c5641a4960c0c206dcfb70274c6245658209e6aced1d3",
- "bytes": 6247799,
- "notas": "Parlamento: proponer y romper alianzas, pedir a un aliado que ataque o que mande recursos, mandarle recursos; la computadora aliada también te pide."
+ "version": "0.50.23",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.23/index.html",
+ "sha256": "a37070587114d8392397ec861becf5853c6c2466265a958b77621dfbff2cb61c",
+ "bytes": 6269631,
+ "notas": "Ocho mapas de Neuquén: Lanín, Aluminé, Copahue, Lácar, la Confluencia, Domuyo, Auca Mahuida y Nahuel Huapi, con sus nombres."
 }
