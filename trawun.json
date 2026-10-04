@@ -1,7 +1,7 @@
 {
- "version": "0.50.25",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.25/index.html",
- "sha256": "86b1160c9308d0b663e1a82aeb3472a8946f50eb769682db73f0250f2c68beb0",
- "bytes": 6281883,
- "notas": "Cada compu con su propio jugador: si la carpeta del juego viene de otra compu, pregunta quién juega. Nombre y perfiles en Che."
+ "version": "0.50.26",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.26/index.html",
+ "sha256": "79a100a6ce5a30c0f06e60e2e9279e9975b9ba234608a33eb4faa6b109e709a5",
+ "bytes": 6283294,
+ "notas": "Arreglo: el que tenía el juego copiado de otra compu se quedaba en la sala; aviso si el anfitrión tiene otra versión."
 }
