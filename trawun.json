@@ -1,7 +1,7 @@
 {
- "version": "0.50.29",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.29/index.html",
- "sha256": "2b85d3bba818a3e0d1b562566c08c62519d97c82c661f2e39f97425fb1eb4ef5",
- "bytes": 6288571,
- "notas": "Nada se queda trabado: el puma vuelve a su guarida rodeando las piedras, los animales buscan camino si chocan, y el que queda adentro de algo sale caminando."
+ "version": "0.50.30",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.30/index.html",
+ "sha256": "ce48df47f6eae6d77021ddab35ce6644517887d5f7650b4a8d898a17641a97e4",
+ "bytes": 6289889,
+ "notas": "Sin tirones: al empezar una obra ya no replanea toda la gente a la vez, y hay un tope de búsquedas de camino por cuadro."
 }
