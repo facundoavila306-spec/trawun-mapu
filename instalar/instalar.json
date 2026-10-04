@@ -1,26 +1,26 @@
 {
- "version": "0.50.34",
+ "version": "0.50.35",
  "electron": "33.4.11",
- "bytes": 118298749,
- "sha256": "f14af4d47adfd4d174fd2b3adcca657fc7028a36c682f9e95b8ce295d43e6403",
+ "bytes": 129756823,
+ "sha256": "ef1020c17b71073f257090c6310d49f5897be0fa8d6b4e8d5707e098c6968902",
  "carpeta": "Trawun Mapu",
  "exe": "Trawun Mapu.exe",
  "partes": [
   {
-   "archivo": "trawun-mapu-0.50.34.zip.001",
+   "archivo": "trawun-mapu-0.50.35.zip.001",
    "bytes": 47185920,
-   "sha256": "9bba939307bc4b110ff7c616f4318a58f1382ad85c707fd40d90334d0e3ed6fa"
+   "sha256": "130e6f6bfa7ea5aa5a307c46b67a0a939a26e6d366037a69354f46e9d7fdf3eb"
   },
   {
-   "archivo": "trawun-mapu-0.50.34.zip.002",
+   "archivo": "trawun-mapu-0.50.35.zip.002",
    "bytes": 47185920,
-   "sha256": "b22d5eb0ca90db002aa13261216a3c71afb4ef5dd1c7a831abed8bbbe59bfdb8"
+   "sha256": "9a5d8de20007e4c0190b22e90bbca17cfb3afdddcd185ba611179bf3282cec1c"
   },
   {
-   "archivo": "trawun-mapu-0.50.34.zip.003",
-   "bytes": 23926909,
-   "sha256": "5c49248a9722f20ef31a19322151073036bbdc80845f878a584863058ae6bdc4"
+   "archivo": "trawun-mapu-0.50.35.zip.003",
+   "bytes": 35384983,
+   "sha256": "11d2909091981a5e39da5b643302de9e35ad0841ba2b6d27567b285aa4bc48fb"
   }
  ],
- "notas": "Primer paquete completo para el instalador chico (Electron 33 + juego 0.50.34)."
+ "notas": "Paquete completo (Electron 33.4.11 + juego 0.50.35 + música)."
 }
