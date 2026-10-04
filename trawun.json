@@ -1,7 +1,7 @@
 {
- "version": "0.50.27",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.27/index.html",
- "sha256": "ee8d5649e221128b60e9b53043115699daf9a7fd8de011a98fa4997b082793b3",
- "bytes": 6284522,
- "notas": "Online más fluido: la gente se mueve pareja entre fotos, red más liviana y la calidad no se baja sola jugando en red."
+ "version": "0.50.28",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.28/index.html",
+ "sha256": "8f43acc6f18901ae053c1da2901d088db631b196d7757265eec7104d6eff70cf",
+ "bytes": 6285260,
+ "notas": "Bordes del mapa: en vez de triángulos negros se ve el terreno que sigue, más oscuro."
 }
