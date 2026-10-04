@@ -1,0 +1,26 @@
+{
+ "version": "0.50.34",
+ "electron": "33.4.11",
+ "bytes": 118298749,
+ "sha256": "f14af4d47adfd4d174fd2b3adcca657fc7028a36c682f9e95b8ce295d43e6403",
+ "carpeta": "Trawun Mapu",
+ "exe": "Trawun Mapu.exe",
+ "partes": [
+  {
+   "archivo": "trawun-mapu-0.50.34.zip.001",
+   "bytes": 47185920,
+   "sha256": "9bba939307bc4b110ff7c616f4318a58f1382ad85c707fd40d90334d0e3ed6fa"
+  },
+  {
+   "archivo": "trawun-mapu-0.50.34.zip.002",
+   "bytes": 47185920,
+   "sha256": "b22d5eb0ca90db002aa13261216a3c71afb4ef5dd1c7a831abed8bbbe59bfdb8"
+  },
+  {
+   "archivo": "trawun-mapu-0.50.34.zip.003",
+   "bytes": 23926909,
+   "sha256": "5c49248a9722f20ef31a19322151073036bbdc80845f878a584863058ae6bdc4"
+  }
+ ],
+ "notas": "Primer paquete completo para el instalador chico (Electron 33 + juego 0.50.34)."
+}
