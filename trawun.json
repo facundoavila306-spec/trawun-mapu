@@ -1,7 +1,7 @@
 {
- "version": "0.50.24",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.24/index.html",
- "sha256": "9423a33c720e7ad9eb950fea9f0eb83cdfcccf0a80e80d29e6db09e378c1f6f9",
- "bytes": 6276926,
- "notas": "Parlamento más difícil y la computadora arma y rompe alianzas sola; regiones contra trabadas; máximo 3 por árbol arreglado."
+ "version": "0.50.25",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.25/index.html",
+ "sha256": "86b1160c9308d0b663e1a82aeb3472a8946f50eb769682db73f0250f2c68beb0",
+ "bytes": 6281883,
+ "notas": "Cada compu con su propio jugador: si la carpeta del juego viene de otra compu, pregunta quién juega. Nombre y perfiles en Che."
 }
