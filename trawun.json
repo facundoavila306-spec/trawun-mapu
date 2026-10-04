@@ -1,7 +1,7 @@
 {
- "version": "0.50.34",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.34/index.html",
- "sha256": "f1c03ebc861709f26b9ad18e8fdd87b1ad9a205dc99903a3a213db60187908bb",
- "bytes": 6302849,
- "notas": "Ahora sí se alcanza al que huye: el guerrero cuerpo a cuerpo pega desde al lado (antes lo empujaba sin pegarle), el que tira de lejos no corta el impulso si el otro sigue cerca y la flecha apunta a donde va a estar"
+ "version": "0.50.35",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.35/index.html",
+ "sha256": "10f2d8a138e59b38421f3e068b5ab54c2b07b13a5be4c60c273d5377f12dcb36",
+ "bytes": 6309804,
+ "notas": "Opciones → Diagnóstico de rendimiento (mide 20 s y arma un texto para mandar)"
 }
