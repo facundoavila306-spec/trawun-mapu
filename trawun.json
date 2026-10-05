@@ -1,7 +1,7 @@
 {
- "version": "0.50.46",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.46/index.html",
- "sha256": "1f5182f47eff69dfc5c03bb14b78830e00d017549d57200351a20ddfebbb0451",
- "bytes": 6342148,
- "notas": "Computadoras autosuficientes y cuatro niveles de verdad: Fácil es una fortaleza que ataca poco, Normal un reto, Difícil muy difícil y Experta casi imposible. Primero hacen gente, plantan araucarias, cambian en la feria lo que les sobra, no persiguen hasta morir, incursionan con grupos chicos y asaltan con el ejército grande."
+ "version": "0.50.47",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.47/index.html",
+ "sha256": "6f967607a3344d512a641f43717beae44e461cf423ede0fa69a7364e0d4069db",
+ "bytes": 6348590,
+ "notas": "Misiones con guerra: oleadas, pumas duros, rivales reales, la 1 termina al juntar la meta; intro más rápida"
 }
