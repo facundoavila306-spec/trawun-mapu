@@ -1,7 +1,7 @@
 {
- "version": "0.50.45",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.45/index.html",
- "sha256": "0a75460d4de1b5957157223c97b3362bb1fb959d28d320f99c83ab4599b2df5c",
- "bytes": 6333389,
- "notas": "La computadora Difícil pelea de verdad: sus aldeanos ya no quedan parados para siempre después de refugiarse, no se pasa media partida ahorrando para la era (y cambia en la feria lo que le sobra por lo que le falta), sigue haciendo viviendas y con recursos de sobra arma un ejército más grande."
+ "version": "0.50.46",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.46/index.html",
+ "sha256": "1f5182f47eff69dfc5c03bb14b78830e00d017549d57200351a20ddfebbb0451",
+ "bytes": 6342148,
+ "notas": "Computadoras autosuficientes y cuatro niveles de verdad: Fácil es una fortaleza que ataca poco, Normal un reto, Difícil muy difícil y Experta casi imposible. Primero hacen gente, plantan araucarias, cambian en la feria lo que les sobra, no persiguen hasta morir, incursionan con grupos chicos y asaltan con el ejército grande."
 }
