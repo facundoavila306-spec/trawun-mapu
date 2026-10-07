@@ -1,7 +1,7 @@
 {
- "version": "0.50.47",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.47/index.html",
- "sha256": "6f967607a3344d512a641f43717beae44e461cf423ede0fa69a7364e0d4069db",
- "bytes": 6348590,
- "notas": "Misiones con guerra: oleadas, pumas duros, rivales reales, la 1 termina al juntar la meta; intro más rápida"
+ "version": "0.50.48",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.48/index.html",
+ "sha256": "172c03b723568e8b154fe503f40e65c51623084e1a24cf5c0080609ba252a4a5",
+ "bytes": 6365555,
+ "notas": "Wiki Nütram: textos y fuentes revisados, sin afirmaciones sin respaldo"
 }
