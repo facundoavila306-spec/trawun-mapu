@@ -1,0 +1,9 @@
+{
+  "name": "trawun-servidor-peer",
+  "version": "1.0.0",
+  "description": "Servidor de señalización PeerJS propio de Trawün Mapu (se despliega gratis en Render)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "peer": "^1.0.2" },
+  "engines": { "node": ">=18" }
+}
