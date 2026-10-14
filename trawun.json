@@ -1,7 +1,7 @@
 {
- "version": "0.50.56",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.56/index.html",
- "sha256": "18a8e05e575b046ae642f3354f18b0f1b42459618e71f3230bbd678c702d5125",
- "bytes": 7198806,
- "notas": "Intro: primero el motor MEV, despues El Gallo McFlay"
+ "version": "0.50.57",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.57/index.html",
+ "sha256": "d145bdda5a4e506ce4e5aedfd8d95478c1c142248b62e1801a415baaec471f18",
+ "bytes": 7196845,
+ "notas": "Intro: sin parpadeo del menu y arranca en la erupcion"
 }
