@@ -1,7 +1,7 @@
 {
- "version": "0.50.54",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.54/index.html",
- "sha256": "be82dd9f26a4cd43f95103db5eacce356b156f485a8c295b380486b171423bfa",
- "bytes": 7196410,
- "notas": "Intro del motor MEV despues de la del estudio"
+ "version": "0.50.55",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.55/index.html",
+ "sha256": "4be782662a93ea8b2d23f41d77ea18fc31014898f6d248f9a5dc119a540fa97b",
+ "bytes": 7199903,
+ "notas": "Arregla carga trabada de la 0.50.54"
 }
