@@ -1,7 +1,7 @@
 {
- "version": "0.52.0",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.52.0/index.html",
- "sha256": "4e7be815f4b02aeb7ab24f9879ce5148cb033afbe18b1c69af6570c75a2cee35",
- "bytes": 7433043,
- "notas": "Esqueleto para la gente (proporcion realista, piel en 4 tonos, 8 cuadros, todas las poses) y para caballos, guanacos, pumas y zorros"
+ "version": "0.52.1",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.52.1/index.html",
+ "sha256": "4697aa0b11eaf97c01f424f3338b0b207e75c91722ad4260d4c1536ec5d73740",
+ "bytes": 7464584,
+ "notas": "Caballo y jinete de frente y de espalda; choique con esqueleto; arreglos del puma y de la gente detras de edificios"
 }
