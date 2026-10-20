@@ -1,7 +1,7 @@
 {
- "version": "0.50.57",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.50.57/index.html",
- "sha256": "d145bdda5a4e506ce4e5aedfd8d95478c1c142248b62e1801a415baaec471f18",
- "bytes": 7196845,
- "notas": "Intro: sin parpadeo del menu y arranca en la erupcion"
+ "version": "0.51.0",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.51.0/index.html",
+ "sha256": "c49f496ce81d2c9f4959f8a7b34910837dbf38136f4f74c532185d6b49148d64",
+ "bytes": 7247335,
+ "notas": "Eventos de la tierra, mapa del dia y records, partida rapida, dibujo directo (rendimiento), luz y relieve en Opciones, balance pehuenche"
 }
