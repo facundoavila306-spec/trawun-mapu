@@ -1,7 +1,7 @@
 {
- "version": "0.51.1",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.51.1/index.html",
- "sha256": "c30635de70b3ee804aa10e228e10bc02f9386fbb680594347c52836df79d25b2",
- "bytes": 7297876,
- "notas": "Movimiento y empujones de la gente de raiz; gente de frente y de espalda"
+ "version": "0.51.2",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.51.2/index.html",
+ "sha256": "5cefd683e6e38cadded5a5c50a46f6346c3b482e72a4a346e41554b0ec01c3db",
+ "bytes": 7302255,
+ "notas": "Construir pegado a otros edificios; tipografia unificada; Opciones por secciones"
 }
