@@ -1,7 +1,7 @@
 {
- "version": "0.53.0",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.53.0/index.html",
- "sha256": "38d7bdf05c87db3c0a7e689f8918626c1403bd22b001c594803fd9ec86869ace",
- "bytes": 7502098,
- "notas": "Todo el mundo se dibuja por la placa de video: mas cuadros por segundo"
+ "version": "0.54.0",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.54.0/index.html",
+ "sha256": "d34ccc40656c6e4e7ae9e533622d8966000b8e0bf36ad05bce83a8024601890a",
+ "bytes": 7574793,
+ "notas": "Más fluido: lógica a paso fijo con movimiento interpolado, caminos calculados en un hilo aparte, carga que prepara los dibujos, resolución automática, sombras que siguen al sol y animaciones de trabajo nuevas."
 }
