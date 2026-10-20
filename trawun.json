@@ -1,7 +1,7 @@
 {
- "version": "0.52.2",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.52.2/index.html",
- "sha256": "198d2ef584a83b9dbd31363b67f537068fb15c620d4d5c87e457aaebf856bdb2",
- "bytes": 7463785,
- "notas": "La estocada de la lanza se ve: recoge, avanza y pega con el cuerpo"
+ "version": "0.52.3",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.52.3/index.html",
+ "sha256": "b3a2740fe25284ef265f891ee0fc14958962e7a5131cfada29c6a1d51f549975",
+ "bytes": 7465548,
+ "notas": "Cada cuerpo ocupa lo que mide: la gente se junta hombro con hombro"
 }
