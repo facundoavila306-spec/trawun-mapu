@@ -1,7 +1,7 @@
 {
- "version": "0.52.3",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.52.3/index.html",
- "sha256": "b3a2740fe25284ef265f891ee0fc14958962e7a5131cfada29c6a1d51f549975",
- "bytes": 7465548,
- "notas": "Cada cuerpo ocupa lo que mide: la gente se junta hombro con hombro"
+ "version": "0.52.4",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.52.4/index.html",
+ "sha256": "dc04b5254c94a0c8171416c68991bfd232bef1e9fbb0406adf9c8eb8e9e22f44",
+ "bytes": 7477523,
+ "notas": "El grupo marcha en bloque y llega junto, como en el Age"
 }
