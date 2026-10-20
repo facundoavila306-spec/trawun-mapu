@@ -1,7 +1,7 @@
 {
- "version": "0.54.0",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.54.0/index.html",
- "sha256": "d34ccc40656c6e4e7ae9e533622d8966000b8e0bf36ad05bce83a8024601890a",
- "bytes": 7574793,
- "notas": "Más fluido: lógica a paso fijo con movimiento interpolado, caminos calculados en un hilo aparte, carga que prepara los dibujos, resolución automática, sombras que siguen al sol y animaciones de trabajo nuevas."
+ "version": "0.55.0",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.55.0/index.html",
+ "sha256": "6faed20c2310789b372eb57a970abf8ac33a8a08b5e6d63db48f0dbb0c2e16a3",
+ "bytes": 7736877,
+ "notas": "Ropa histórica de cada pueblo, líderes para elegir, lugares de la tierra para cuidar (con victoria opcional), contras claras y una computadora que se recupera cuando va perdiendo."
 }
