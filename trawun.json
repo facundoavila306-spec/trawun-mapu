@@ -1,7 +1,7 @@
 {
- "version": "0.52.1",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.52.1/index.html",
- "sha256": "4697aa0b11eaf97c01f424f3338b0b207e75c91722ad4260d4c1536ec5d73740",
- "bytes": 7464584,
- "notas": "Caballo y jinete de frente y de espalda; choique con esqueleto; arreglos del puma y de la gente detras de edificios"
+ "version": "0.52.2",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.52.2/index.html",
+ "sha256": "198d2ef584a83b9dbd31363b67f537068fb15c620d4d5c87e457aaebf856bdb2",
+ "bytes": 7463785,
+ "notas": "La estocada de la lanza se ve: recoge, avanza y pega con el cuerpo"
 }
