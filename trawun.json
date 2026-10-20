@@ -1,7 +1,7 @@
 {
- "version": "0.52.5",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.52.5/index.html",
- "sha256": "1fbe92989170faccc89cb006143da6aaf8a625accf0479da0f1828e3c996b54a",
- "bytes": 7480159,
- "notas": "Ctrl + clic o recuadro suma a lo elegido"
+ "version": "0.53.0",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.53.0/index.html",
+ "sha256": "38d7bdf05c87db3c0a7e689f8918626c1403bd22b001c594803fd9ec86869ace",
+ "bytes": 7502098,
+ "notas": "Todo el mundo se dibuja por la placa de video: mas cuadros por segundo"
 }
