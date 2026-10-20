@@ -1,7 +1,7 @@
 {
- "version": "0.51.0",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.51.0/index.html",
- "sha256": "c49f496ce81d2c9f4959f8a7b34910837dbf38136f4f74c532185d6b49148d64",
- "bytes": 7247335,
- "notas": "Eventos de la tierra, mapa del dia y records, partida rapida, dibujo directo (rendimiento), luz y relieve en Opciones, balance pehuenche"
+ "version": "0.51.1",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.51.1/index.html",
+ "sha256": "c30635de70b3ee804aa10e228e10bc02f9386fbb680594347c52836df79d25b2",
+ "bytes": 7297876,
+ "notas": "Movimiento y empujones de la gente de raiz; gente de frente y de espalda"
 }
