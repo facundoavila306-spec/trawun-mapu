@@ -1,7 +1,7 @@
 {
- "version": "0.52.4",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.52.4/index.html",
- "sha256": "dc04b5254c94a0c8171416c68991bfd232bef1e9fbb0406adf9c8eb8e9e22f44",
- "bytes": 7477523,
- "notas": "El grupo marcha en bloque y llega junto, como en el Age"
+ "version": "0.52.5",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.52.5/index.html",
+ "sha256": "1fbe92989170faccc89cb006143da6aaf8a625accf0479da0f1828e3c996b54a",
+ "bytes": 7480159,
+ "notas": "Ctrl + clic o recuadro suma a lo elegido"
 }
