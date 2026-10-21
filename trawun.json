@@ -1,7 +1,7 @@
 {
- "version": "0.55.1",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.55.1/index.html",
- "sha256": "8ba124a8e6cd19fa5857834a130425770eadacd3437be6d7644cae66ed813e76",
- "bytes": 7762593,
- "notas": "Se ve nítido de nuevo: el juego ya no baja la calidad solo; la gente tiene contorno y se distingue del pasto; menos tirones (el suelo se pinta aparte y los dibujos se preparan de a poco)."
+ "version": "0.56.0",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.56.0/index.html",
+ "sha256": "c015c176a42be29c08a719c3c716facdbabf3a5fe83a415f3d926dab3d21c295",
+ "bytes": 13404666,
+ "notas": "Edificios ya dibujados dentro del juego (no se arman mientras jugás), carga completa antes de entrar al mapa, zoom por pasos enteros y memoria estable."
 }
