@@ -1,7 +1,7 @@
 {
- "version": "0.55.0",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.55.0/index.html",
- "sha256": "6faed20c2310789b372eb57a970abf8ac33a8a08b5e6d63db48f0dbb0c2e16a3",
- "bytes": 7736877,
- "notas": "Ropa histórica de cada pueblo, líderes para elegir, lugares de la tierra para cuidar (con victoria opcional), contras claras y una computadora que se recupera cuando va perdiendo."
+ "version": "0.55.1",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.55.1/index.html",
+ "sha256": "8ba124a8e6cd19fa5857834a130425770eadacd3437be6d7644cae66ed813e76",
+ "bytes": 7762593,
+ "notas": "Se ve nítido de nuevo: el juego ya no baja la calidad solo; la gente tiene contorno y se distingue del pasto; menos tirones (el suelo se pinta aparte y los dibujos se preparan de a poco)."
 }
