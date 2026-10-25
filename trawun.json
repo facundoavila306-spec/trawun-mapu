@@ -1,7 +1,7 @@
 {
- "version": "0.56.0",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.56.0/index.html",
- "sha256": "c015c176a42be29c08a719c3c716facdbabf3a5fe83a415f3d926dab3d21c295",
- "bytes": 13404666,
- "notas": "Edificios ya dibujados dentro del juego (no se arman mientras jugás), carga completa antes de entrar al mapa, zoom por pasos enteros y memoria estable."
+ "version": "0.57.0",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.57.0/index.html",
+ "sha256": "a21dd991e3cd5339faa5cef462bee22c9b514e60d2994a6027b801ef98906143",
+ "bytes": 13479628,
+ "notas": "Suelo pintado nuevo (sin ruido de píxeles, manchas suaves, matas, caminitos y tierra pisada alrededor de los edificios). En Opciones → Video → Suelo podés elegir marcado, sutil o el clásico."
 }
