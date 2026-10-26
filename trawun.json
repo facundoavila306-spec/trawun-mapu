@@ -1,12 +1,12 @@
 {
- "version": "0.59.3",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.59.3/index.html",
- "sha256": "70dbfd274f7343a20f4e3119c59558104f0b6e482c03269637dca9b28ae3ccd9",
- "bytes": 21684843,
- "notas": "Piedras y obsidiana más realistas (granito facetado y vidrio negro concoideo)",
- "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.59.3/liviano.html",
- "sha256Liviano": "df499a877f6cb069ef313981f0f06a95a563b1c090e72ba122b70b34b5e18eb7",
- "bytesLiviano": 8387964,
+ "version": "0.59.4",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.59.4/index.html",
+ "sha256": "7e9868a94e333d12a48afa011d8a8de18418a505b3b294f59bc8fa3e1f244ca3",
+ "bytes": 21720654,
+ "notas": "Menú pintado en alta resolución, panel de abajo con íconos, el puma ya no desaparece",
+ "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.59.4/liviano.html",
+ "sha256Liviano": "adbf1ffd2059789fc8c22b062ae67170ca5287305579ccc92c091e69354d3282",
+ "bytesLiviano": 8423775,
  "paquetes": [
   {
    "nombre": "edificios",
