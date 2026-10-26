@@ -1,12 +1,12 @@
 {
- "version": "0.58.1",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.58.1/index.html",
- "sha256": "a2947d807590fa81b149c66e9ba5a61a8d5e31b8cd3da41841072910a999b1cc",
- "bytes": 21473262,
- "notas": "Los guanacos ya no se deforman al pastar: bajan el cuello en curva natural y mantienen el cuerpo.",
- "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.58.1/liviano.html",
- "sha256Liviano": "d11a66ea8560bd480aad6391b771ba5f68986ca07af501f651f6f735392eda3b",
- "bytesLiviano": 8176383,
+ "version": "0.59.0",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.59.0/index.html",
+ "sha256": "52e5b8e192ed20fc036a3ea44296762946e5e70852f8649c51e1b8e319c8e0d4",
+ "bytes": 21677155,
+ "notas": "Optimización (basura −57 %), tipografía A, eras por hitos, paquetes de arte",
+ "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.59.0/liviano.html",
+ "sha256Liviano": "42f204563d7df799da0e738c4f51c0979caac1a3c97f5865686e2947851d577f",
+ "bytesLiviano": 8380276,
  "paquetes": [
   {
    "nombre": "edificios",
