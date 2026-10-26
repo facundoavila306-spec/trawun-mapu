@@ -1,7 +1,26 @@
 {
- "version": "0.57.0",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.57.0/index.html",
- "sha256": "a21dd991e3cd5339faa5cef462bee22c9b514e60d2994a6027b801ef98906143",
- "bytes": 13479628,
- "notas": "Suelo pintado nuevo (sin ruido de píxeles, manchas suaves, matas, caminitos y tierra pisada alrededor de los edificios). En Opciones → Video → Suelo podés elegir marcado, sutil o el clásico."
+ "version": "0.58.0",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.58.0/index.html",
+ "sha256": "09dbd821675c5fa8103c3424778fea7d16b0b8976104d03e3f797ff2f652314c",
+ "bytes": 21474275,
+ "notas": "La gente ya viene dibujada (no se arma mientras jugás), sombras, polvo, humo, pájaros, agua con orillas y color por hora; barra de arriba nueva; guanacos y cóndor rehechos; animales que pastan quietos; zoom en 4 vistas fijas.",
+ "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.58.0/liviano.html",
+ "sha256Liviano": "cb93b23cd1259e61d31aa16d3aa59f0242b405bc2eff61b9fbc46249ebe09e77",
+ "bytesLiviano": 8177396,
+ "paquetes": [
+  {
+   "nombre": "edificios",
+   "archivo": "edificios-f5a23d9e9ebe.pak",
+   "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/arte/edificios-f5a23d9e9ebe.pak",
+   "sha256": "f5a23d9e9ebedf8f68aa125267126828c3aa1b8b55d122e9ee6828c49ebc66dc",
+   "bytes": 4416622
+  },
+  {
+   "nombre": "gente",
+   "archivo": "gente-8e0b93437948.pak",
+   "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/arte/gente-8e0b93437948.pak",
+   "sha256": "8e0b93437948d8dfa04615c30b77321fb62c752971566daca40598b7e367df52",
+   "bytes": 7334556
+  }
+ ]
 }
