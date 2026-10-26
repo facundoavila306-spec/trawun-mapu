@@ -1,12 +1,12 @@
 {
- "version": "0.58.0",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.58.0/index.html",
- "sha256": "09dbd821675c5fa8103c3424778fea7d16b0b8976104d03e3f797ff2f652314c",
- "bytes": 21474275,
- "notas": "La gente ya viene dibujada (no se arma mientras jugás), sombras, polvo, humo, pájaros, agua con orillas y color por hora; barra de arriba nueva; guanacos y cóndor rehechos; animales que pastan quietos; zoom en 4 vistas fijas.",
- "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.58.0/liviano.html",
- "sha256Liviano": "cb93b23cd1259e61d31aa16d3aa59f0242b405bc2eff61b9fbc46249ebe09e77",
- "bytesLiviano": 8177396,
+ "version": "0.58.1",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.58.1/index.html",
+ "sha256": "a2947d807590fa81b149c66e9ba5a61a8d5e31b8cd3da41841072910a999b1cc",
+ "bytes": 21473262,
+ "notas": "Los guanacos ya no se deforman al pastar: bajan el cuello en curva natural y mantienen el cuerpo.",
+ "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.58.1/liviano.html",
+ "sha256Liviano": "d11a66ea8560bd480aad6391b771ba5f68986ca07af501f651f6f735392eda3b",
+ "bytesLiviano": 8176383,
  "paquetes": [
   {
    "nombre": "edificios",
