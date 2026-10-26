@@ -1,12 +1,12 @@
 {
- "version": "0.59.0",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.59.0/index.html",
- "sha256": "52e5b8e192ed20fc036a3ea44296762946e5e70852f8649c51e1b8e319c8e0d4",
- "bytes": 21677155,
- "notas": "Optimización (basura −57 %), tipografía A, eras por hitos, paquetes de arte",
- "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.59.0/liviano.html",
- "sha256Liviano": "42f204563d7df799da0e738c4f51c0979caac1a3c97f5865686e2947851d577f",
- "bytesLiviano": 8380276,
+ "version": "0.59.1",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.59.1/index.html",
+ "sha256": "b70570dfead699374d574dafe4b3c4b1ed44c4c4f6b9895ba49e794f8bb75b66",
+ "bytes": 21677150,
+ "notas": "Barra de abajo sin scroll y más ordenada (ficha compacta, cartel de hitos de eras), arreglo sobre 0.59.0",
+ "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.59.1/liviano.html",
+ "sha256Liviano": "1ea946ce9dcf8ed53092b693d13df4b7767c426181d2641552f2eedcb6d06b56",
+ "bytesLiviano": 8380271,
  "paquetes": [
   {
    "nombre": "edificios",
