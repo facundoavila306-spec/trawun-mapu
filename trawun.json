@@ -1,12 +1,12 @@
 {
- "version": "0.59.2",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.59.2/index.html",
- "sha256": "4113d6ca7c3b2e072641d96af5b7e4e2fce71a13e32dc390bf4bb082a6574f80",
- "bytes": 21676074,
- "notas": "Era II más exigente: 18 personas y 3600 juntado (medido con la IA: llega a la Era II cerca de lo de antes y los pueblos quedan parejos)",
- "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.59.2/liviano.html",
- "sha256Liviano": "35db26fa54f6f7c1a76dbdc3b1b33f97a07340a931a9a7376c6bc55dd61a93e0",
- "bytesLiviano": 8379195,
+ "version": "0.59.3",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.59.3/index.html",
+ "sha256": "70dbfd274f7343a20f4e3119c59558104f0b6e482c03269637dca9b28ae3ccd9",
+ "bytes": 21684843,
+ "notas": "Piedras y obsidiana más realistas (granito facetado y vidrio negro concoideo)",
+ "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.59.3/liviano.html",
+ "sha256Liviano": "df499a877f6cb069ef313981f0f06a95a563b1c090e72ba122b70b34b5e18eb7",
+ "bytesLiviano": 8387964,
  "paquetes": [
   {
    "nombre": "edificios",
