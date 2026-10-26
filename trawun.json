@@ -1,12 +1,12 @@
 {
- "version": "0.59.1",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.59.1/index.html",
- "sha256": "b70570dfead699374d574dafe4b3c4b1ed44c4c4f6b9895ba49e794f8bb75b66",
- "bytes": 21677150,
- "notas": "Barra de abajo sin scroll y más ordenada (ficha compacta, cartel de hitos de eras), arreglo sobre 0.59.0",
- "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.59.1/liviano.html",
- "sha256Liviano": "1ea946ce9dcf8ed53092b693d13df4b7767c426181d2641552f2eedcb6d06b56",
- "bytesLiviano": 8380271,
+ "version": "0.59.2",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.59.2/index.html",
+ "sha256": "4113d6ca7c3b2e072641d96af5b7e4e2fce71a13e32dc390bf4bb082a6574f80",
+ "bytes": 21676074,
+ "notas": "Era II más exigente: 18 personas y 3600 juntado (medido con la IA: llega a la Era II cerca de lo de antes y los pueblos quedan parejos)",
+ "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.59.2/liviano.html",
+ "sha256Liviano": "35db26fa54f6f7c1a76dbdc3b1b33f97a07340a931a9a7376c6bc55dd61a93e0",
+ "bytesLiviano": 8379195,
  "paquetes": [
   {
    "nombre": "edificios",
