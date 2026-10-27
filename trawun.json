@@ -1,12 +1,12 @@
 {
- "version": "0.59.5",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.59.5/index.html",
- "sha256": "08401d851b4daa024f8f906b6ef2ec9e1e7526e69e9a4b9ae75721a011c8bc79",
- "bytes": 21730586,
- "notas": "Suelo pintado fino con relieve, agua con lecho y crestas de viento, matas que se mecen, pisadas",
- "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.59.5/liviano.html",
- "sha256Liviano": "7779369fe0558c613a54350ad98fb0b92ce526486864ecb9f2c0affbfad1875e",
- "bytesLiviano": 8433707,
+ "version": "0.59.6",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.59.6/index.html",
+ "sha256": "427d44a323d55c5312cc3e32f4bab4221daf5810e0c6d73b0049b19930205dc5",
+ "bytes": 21734985,
+ "notas": "Suelo fino con lomadas y piedras sueltas; el agua ondula y tiene crestas de viento en la placa",
+ "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.59.6/liviano.html",
+ "sha256Liviano": "42aef9abe5bc6cbd49b559fc7b4bcc1a172365a03c31ddcacf9cdc704ec8e06a",
+ "bytesLiviano": 8438106,
  "paquetes": [
   {
    "nombre": "edificios",
