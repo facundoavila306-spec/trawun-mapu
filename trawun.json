@@ -1,26 +1,19 @@
 {
- "version": "0.59.6",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.59.6/index.html",
- "sha256": "427d44a323d55c5312cc3e32f4bab4221daf5810e0c6d73b0049b19930205dc5",
- "bytes": 21734985,
- "notas": "Suelo fino con lomadas y piedras sueltas; el agua ondula y tiene crestas de viento en la placa",
- "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.59.6/liviano.html",
- "sha256Liviano": "42aef9abe5bc6cbd49b559fc7b4bcc1a172365a03c31ddcacf9cdc704ec8e06a",
- "bytesLiviano": 8438106,
+ "version": "0.60.0",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.60.0/index.html",
+ "sha256": "e84bd471dbc337febe2e4ec19711f2a02fa3b9b38778f01a0f37968e3586f45c",
+ "bytes": 14191509,
+ "notas": "Gente más real (dibujada al doble de detalle), heridas y sangre, golpes y reacciones nuevos, gente que respira y camina mejor, íconos nuevos, nubes, humo al viento y luz de fogones, gente un 20 % más grande, juego un poco más ágil, y los que vuelven cargados ya obedecen.",
+ "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.60.0/liviano.html",
+ "sha256Liviano": "284e8b0dc0ba9935138fb30169d081d3b4db8769ca3d3ba0616cb2cbcb96d02f",
+ "bytesLiviano": 8590526,
  "paquetes": [
   {
    "nombre": "edificios",
-   "archivo": "edificios-f5a23d9e9ebe.pak",
-   "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/arte/edificios-f5a23d9e9ebe.pak",
-   "sha256": "f5a23d9e9ebedf8f68aa125267126828c3aa1b8b55d122e9ee6828c49ebc66dc",
+   "archivo": "edificios-53227eeca149.pak",
+   "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/arte/edificios-53227eeca149.pak",
+   "sha256": "53227eeca14916a25ea862da48dbec615c53ef55f3b4571dc420c0fe3f90a872",
    "bytes": 4416622
-  },
-  {
-   "nombre": "gente",
-   "archivo": "gente-8e0b93437948.pak",
-   "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/arte/gente-8e0b93437948.pak",
-   "sha256": "8e0b93437948d8dfa04615c30b77321fb62c752971566daca40598b7e367df52",
-   "bytes": 7334556
   }
  ]
 }
