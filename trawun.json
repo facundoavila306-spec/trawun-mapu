@@ -1,19 +1,19 @@
 {
- "version": "0.60.0",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.60.0/index.html",
- "sha256": "e84bd471dbc337febe2e4ec19711f2a02fa3b9b38778f01a0f37968e3586f45c",
- "bytes": 14191509,
- "notas": "Gente más real (dibujada al doble de detalle), heridas y sangre, golpes y reacciones nuevos, gente que respira y camina mejor, íconos nuevos, nubes, humo al viento y luz de fogones, gente un 20 % más grande, juego un poco más ágil, y los que vuelven cargados ya obedecen.",
- "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.60.0/liviano.html",
- "sha256Liviano": "284e8b0dc0ba9935138fb30169d081d3b4db8769ca3d3ba0616cb2cbcb96d02f",
- "bytesLiviano": 8590526,
+ "version": "0.61.0",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.61.0/index.html",
+ "sha256": "8c1b846c9d2e03376e5afa6050083eb280cf72ec70c6a792db39ef57e4505b82",
+ "bytes": 13415188,
+ "notas": "Movimiento para todo: la gente arranca y frena con impulso, se estira y descansa; los edificios se derrumban; remolinos de tierra, hojas de otoño y ráfagas; puntero con herramienta y avisos con color; estela de canoas y espuma en la orilla; las obras se arman de verdad (postes, armazón, cubierta; corrales piedra por piedra y poste por poste); pixel art con más volumen.",
+ "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.61.0/liviano.html",
+ "sha256Liviano": "b0062e5d34ab28e0ee3a40ee022e912d2ec808efbeddd68e43ef3b0b54e4b454",
+ "bytesLiviano": 8633349,
  "paquetes": [
   {
    "nombre": "edificios",
-   "archivo": "edificios-53227eeca149.pak",
-   "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/arte/edificios-53227eeca149.pak",
-   "sha256": "53227eeca14916a25ea862da48dbec615c53ef55f3b4571dc420c0fe3f90a872",
-   "bytes": 4416622
+   "archivo": "edificios-1792bc62b4e6.pak",
+   "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/arte/edificios-1792bc62b4e6.pak",
+   "sha256": "1792bc62b4e6d1c896fada68b9c021302e46ad6ec57cedc65fa9ed8996623058",
+   "bytes": 3802191
   }
  ]
 }
