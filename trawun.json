@@ -1,12 +1,12 @@
 {
- "version": "0.65.1",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.65.1/index.html",
- "sha256": "c73d992a00bda8e5a8b3906958b8848d817a79159b0732405e0527502931e2b4",
- "bytes": 13736885,
- "notas": "Objetivos con botón, barra sin scroll, Al azar en escaramuza, agua en el minimapa, torres que hay que mejorar para atacar, menos alianzas de la computadora, constructores sin marearse, voz en la campaña pehuenche, íconos del boleador y de Mantener",
- "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.65.1/liviano.html",
- "sha256Liviano": "77024fbe0ec58e6117bdb4fe1d540e700375b798e4d2b6911d3e15281c989a9c",
- "bytesLiviano": 8920062,
+ "version": "0.65.2",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.65.2/index.html",
+ "sha256": "0345b0df2342f2665856693a51fbda7a7b16a35322b160a86692ac17fdad32c4",
+ "bytes": 13737686,
+ "notas": "Weichan compacto, gente más legible (F8), diálogos con el estilo del juego",
+ "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.65.2/liviano.html",
+ "sha256Liviano": "a94ee623fa53601daa64688ad479d4f57269df8937cf0a42dc8b266a0b4b9d8b",
+ "bytesLiviano": 8920863,
  "paquetes": [
   {
    "nombre": "edificios",
