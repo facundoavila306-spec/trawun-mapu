@@ -1,0 +1,26 @@
+{
+ "version": "0.50.53",
+ "electron": "33.4.11",
+ "bytes": 128558211,
+ "sha256": "5d9bd39668ce0daf66745036df2c4fb358080c9581d08679fde3168a384ad3f1",
+ "carpeta": "Trawun Mapu",
+ "exe": "Trawun Mapu.exe",
+ "partes": [
+  {
+   "archivo": "trawun-mapu-0.50.53.zip.001",
+   "bytes": 47185920,
+   "sha256": "dec7b7462cd8286db26036432fc80a270eb703ef5f8a6cfd246636ca5cf05fec"
+  },
+  {
+   "archivo": "trawun-mapu-0.50.53.zip.002",
+   "bytes": 47185920,
+   "sha256": "dc2a9698f4cdb02a779c1a6e8282f43ee50758a9b5b0be3a179e710b18c17724"
+  },
+  {
+   "archivo": "trawun-mapu-0.50.53.zip.003",
+   "bytes": 34186371,
+   "sha256": "cd5ac311f0805616d80198840b4a8d27e38e9800bac448f6cecfc25c8ced355a"
+  }
+ ],
+ "notas": "Paquete completo (Electron 33.4.11 + juego 0.50.53 + música)."
+}

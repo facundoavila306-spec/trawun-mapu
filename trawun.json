@@ -1,0 +1,19 @@
+{
+ "version": "0.65.1",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.65.1/index.html",
+ "sha256": "c73d992a00bda8e5a8b3906958b8848d817a79159b0732405e0527502931e2b4",
+ "bytes": 13736885,
+ "notas": "Objetivos con botón, barra sin scroll, Al azar en escaramuza, agua en el minimapa, torres que hay que mejorar para atacar, menos alianzas de la computadora, constructores sin marearse, voz en la campaña pehuenche, íconos del boleador y de Mantener",
+ "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.65.1/liviano.html",
+ "sha256Liviano": "77024fbe0ec58e6117bdb4fe1d540e700375b798e4d2b6911d3e15281c989a9c",
+ "bytesLiviano": 8920062,
+ "paquetes": [
+  {
+   "nombre": "edificios",
+   "archivo": "edificios-d409d1b7ef9f.pak",
+   "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/arte/edificios-d409d1b7ef9f.pak",
+   "sha256": "d409d1b7ef9f7cb4c76fd6c364960cd513b13e12f8dc505cea1f63375db59766",
+   "bytes": 3828425
+  }
+ ]
+}
