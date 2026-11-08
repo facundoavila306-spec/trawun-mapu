@@ -1,12 +1,12 @@
 {
- "version": "0.65.2",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.65.2/index.html",
- "sha256": "0345b0df2342f2665856693a51fbda7a7b16a35322b160a86692ac17fdad32c4",
- "bytes": 13737686,
- "notas": "Weichan compacto, gente más legible (F8), diálogos con el estilo del juego",
- "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.65.2/liviano.html",
- "sha256Liviano": "a94ee623fa53601daa64688ad479d4f57269df8937cf0a42dc8b266a0b4b9d8b",
- "bytesLiviano": 8920863,
+ "version": "0.65.3",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.65.3/index.html",
+ "sha256": "3baf799987b056cdf1f2900e7fe19885d92c6c933b1450dec87253ac79431234",
+ "bytes": 13743017,
+ "notas": "El muro llega hasta el borde del mapa",
+ "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.65.3/liviano.html",
+ "sha256Liviano": "1cbd4f409fe1e2afcfbc19ab0d5c635cbef17d9c45a7f08ca78090b0a752c745",
+ "bytesLiviano": 8926194,
  "paquetes": [
   {
    "nombre": "edificios",
