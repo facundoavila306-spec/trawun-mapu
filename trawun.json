@@ -1,12 +1,12 @@
 {
- "version": "0.65.3",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.65.3/index.html",
- "sha256": "3baf799987b056cdf1f2900e7fe19885d92c6c933b1450dec87253ac79431234",
- "bytes": 13743017,
- "notas": "El muro llega hasta el borde del mapa",
- "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.65.3/liviano.html",
- "sha256Liviano": "1cbd4f409fe1e2afcfbc19ab0d5c635cbef17d9c45a7f08ca78090b0a752c745",
- "bytesLiviano": 8926194,
+ "version": "0.65.4",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.65.4/index.html",
+ "sha256": "cc1010fde5627e864032e9658a0e3978a23a24897023ff19511c34faec096c58",
+ "bytes": 24958903,
+ "notas": "Atlas de gente horneado de nuevo (vuelve la carga rápida de la gente)",
+ "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.65.4/liviano.html",
+ "sha256Liviano": "2864a94ca36de0fbfb211deae0a7a1f4c3293820acd0ba1554268e3f7d2bec75",
+ "bytesLiviano": 8925671,
  "paquetes": [
   {
    "nombre": "edificios",
@@ -14,6 +14,13 @@
    "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/arte/edificios-d409d1b7ef9f.pak",
    "sha256": "d409d1b7ef9f7cb4c76fd6c364960cd513b13e12f8dc505cea1f63375db59766",
    "bytes": 3828425
+  },
+  {
+   "nombre": "gente",
+   "archivo": "gente-d07c738a934d.pak",
+   "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/arte/gente-d07c738a934d.pak",
+   "sha256": "d07c738a934d7ad1164d8b39761be1479ce1f739156ef9c1f89ad19fbef022d1",
+   "bytes": 10784262
   }
  ]
 }
