@@ -1,12 +1,12 @@
 {
- "version": "0.65.4",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.65.4/index.html",
- "sha256": "cc1010fde5627e864032e9658a0e3978a23a24897023ff19511c34faec096c58",
- "bytes": 24958903,
- "notas": "Atlas de gente horneado de nuevo (vuelve la carga rápida de la gente)",
- "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.65.4/liviano.html",
- "sha256Liviano": "2864a94ca36de0fbfb211deae0a7a1f4c3293820acd0ba1554268e3f7d2bec75",
- "bytesLiviano": 8925671,
+ "version": "0.65.5",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.65.5/index.html",
+ "sha256": "26911ef8376c107cb2a3f838817d97f9746027f66c19ccb408ae61fe582370e4",
+ "bytes": 24961624,
+ "notas": "El panel de muro dice por qué un tramo sale en rojo",
+ "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.65.5/liviano.html",
+ "sha256Liviano": "4a134fec927ba52dd4ce448e208cb13003441173924f36a7f23b47451228c766",
+ "bytesLiviano": 8928392,
  "paquetes": [
   {
    "nombre": "edificios",
