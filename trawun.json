@@ -1,12 +1,12 @@
 {
- "version": "0.65.5",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.65.5/index.html",
- "sha256": "26911ef8376c107cb2a3f838817d97f9746027f66c19ccb408ae61fe582370e4",
- "bytes": 24961624,
- "notas": "El panel de muro dice por qué un tramo sale en rojo",
- "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.65.5/liviano.html",
- "sha256Liviano": "4a134fec927ba52dd4ce448e208cb13003441173924f36a7f23b47451228c766",
- "bytesLiviano": 8928392,
+ "version": "0.66.0",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.66.0/index.html",
+ "sha256": "1ddd1caedff7796ccdab97e905bd91e7dd14fdfdb0f5d897a73ff552fa54bf20",
+ "bytes": 25024963,
+ "notas": "Campaña tehuelche: misiones 2 a 5 (La Cabecera del Mar, El puesto del río, El valle, Las nacientes del Senguer)",
+ "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.66.0/liviano.html",
+ "sha256Liviano": "821add3389f2ddbe5838776eb99c7999090269d35fbbb0a0a2f91550bb372062",
+ "bytesLiviano": 8991731,
  "paquetes": [
   {
    "nombre": "edificios",
