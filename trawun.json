@@ -1,12 +1,12 @@
 {
- "version": "0.66.0",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.66.0/index.html",
- "sha256": "1ddd1caedff7796ccdab97e905bd91e7dd14fdfdb0f5d897a73ff552fa54bf20",
- "bytes": 25024963,
- "notas": "Campaña tehuelche: misiones 2 a 5 (La Cabecera del Mar, El puesto del río, El valle, Las nacientes del Senguer)",
- "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.66.0/liviano.html",
- "sha256Liviano": "821add3389f2ddbe5838776eb99c7999090269d35fbbb0a0a2f91550bb372062",
- "bytesLiviano": 8991731,
+ "version": "0.66.1",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.66.1/index.html",
+ "sha256": "041ded3155a5793c3890542da5ab6031ea79d632925d4e8c92693ca999bed2e2",
+ "bytes": 25027840,
+ "notas": "Arreglos: el juego ya no se traba en invierno, sin manchones negros en el suelo pintado, el agua no tapa a quien cruza un vado",
+ "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.66.1/liviano.html",
+ "sha256Liviano": "1b34606ff693e1b64e659d87f7a9709ec0552be6497f27a629d7ddbeb5cd9ade",
+ "bytesLiviano": 8994608,
  "paquetes": [
   {
    "nombre": "edificios",
