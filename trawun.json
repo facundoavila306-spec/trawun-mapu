@@ -1,12 +1,12 @@
 {
- "version": "0.66.1",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.66.1/index.html",
- "sha256": "041ded3155a5793c3890542da5ab6031ea79d632925d4e8c92693ca999bed2e2",
- "bytes": 25027840,
- "notas": "Arreglos: el juego ya no se traba en invierno, sin manchones negros en el suelo pintado, el agua no tapa a quien cruza un vado",
- "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.66.1/liviano.html",
- "sha256Liviano": "1b34606ff693e1b64e659d87f7a9709ec0552be6497f27a629d7ddbeb5cd9ade",
- "bytesLiviano": 8994608,
+ "version": "0.67.0",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.67.0/index.html",
+ "sha256": "cb985a12e96acddfc5efffb817d6bd5fde95fef8ee606e57d033a5ab10bc0339",
+ "bytes": 25083721,
+ "notas": "La plaza: quién está en línea, charla, salas para entrar con un clic, Jugar ya, mensajes privados y amigos. Botón Dejá tu opinión.",
+ "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.67.0/liviano.html",
+ "sha256Liviano": "414ac2dc384d62d9e2b6c232b0b6fece8f96e29cb59f4b551a11d7d6c33d68a0",
+ "bytesLiviano": 9050489,
  "paquetes": [
   {
    "nombre": "edificios",
