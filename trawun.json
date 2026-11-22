@@ -1,12 +1,12 @@
 {
- "version": "0.68.0",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.68.0/index.html",
- "sha256": "d6842fbb63f96aeb875c86f531f13d962da335f8718468392863074748453d11",
- "bytes": 25159454,
- "notas": "Mapas reales de Neuquén con su cartel, malones avisados y saqueos, venganza, flechas que marcan de dónde vienen, el carácter de cada rival se nota, y la campaña mapuche nueva: El paso, Rukan, El witral y Koyag.",
- "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.68.0/liviano.html",
- "sha256Liviano": "83098bdb8ac8f17bbee672e787a51a4d9d5068aceaf7325cbe1b972654422b26",
- "bytesLiviano": 9126222,
+ "version": "0.68.1",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.68.1/index.html",
+ "sha256": "c563ea47721e478c229ea2a22c97a960e375a0921facb282d19074f96fc7d0b9",
+ "bytes": 25158548,
+ "notas": "Arreglos: el chat de la sala se borra al mandar, las listas de la sala ya no se cierran solas, los animales no parpadean en el borde de la vista, y los jinetes de frente y de espalda con el caballo más ancho.",
+ "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.68.1/liviano.html",
+ "sha256Liviano": "23606c877610107a37e227975b130d5a0ee2a2192064395e1d1e7e38a7fe327a",
+ "bytesLiviano": 9125316,
  "paquetes": [
   {
    "nombre": "edificios",
