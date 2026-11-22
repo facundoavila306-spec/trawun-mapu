@@ -1,12 +1,12 @@
 {
- "version": "0.67.0",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.67.0/index.html",
- "sha256": "cb985a12e96acddfc5efffb817d6bd5fde95fef8ee606e57d033a5ab10bc0339",
- "bytes": 25083721,
- "notas": "La plaza: quién está en línea, charla, salas para entrar con un clic, Jugar ya, mensajes privados y amigos. Botón Dejá tu opinión.",
- "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.67.0/liviano.html",
- "sha256Liviano": "414ac2dc384d62d9e2b6c232b0b6fece8f96e29cb59f4b551a11d7d6c33d68a0",
- "bytesLiviano": 9050489,
+ "version": "0.68.0",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.68.0/index.html",
+ "sha256": "d6842fbb63f96aeb875c86f531f13d962da335f8718468392863074748453d11",
+ "bytes": 25159454,
+ "notas": "Mapas reales de Neuquén con su cartel, malones avisados y saqueos, venganza, flechas que marcan de dónde vienen, el carácter de cada rival se nota, y la campaña mapuche nueva: El paso, Rukan, El witral y Koyag.",
+ "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.68.0/liviano.html",
+ "sha256Liviano": "83098bdb8ac8f17bbee672e787a51a4d9d5068aceaf7325cbe1b972654422b26",
+ "bytesLiviano": 9126222,
  "paquetes": [
   {
    "nombre": "edificios",
