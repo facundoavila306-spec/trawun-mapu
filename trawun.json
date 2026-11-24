@@ -1,12 +1,12 @@
 {
- "version": "0.68.1",
- "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.68.1/index.html",
- "sha256": "c563ea47721e478c229ea2a22c97a960e375a0921facb282d19074f96fc7d0b9",
- "bytes": 25158548,
- "notas": "Arreglos: el chat de la sala se borra al mandar, las listas de la sala ya no se cierran solas, los animales no parpadean en el borde de la vista, y los jinetes de frente y de espalda con el caballo más ancho.",
- "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.68.1/liviano.html",
- "sha256Liviano": "23606c877610107a37e227975b130d5a0ee2a2192064395e1d1e7e38a7fe327a",
- "bytesLiviano": 9125316,
+ "version": "0.68.2",
+ "url": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.68.2/index.html",
+ "sha256": "04e1e9cdf2545553d05563df7cdb2b60756918f4c2f050391911d1f4b3e75be2",
+ "bytes": 25162218,
+ "notas": "Red más estable: la partida va por la base del juego y si se corta internet se vuelve a conectar sola, con aviso. Volver a la sala funciona aunque se caiga todo.",
+ "urlLiviano": "https://raw.githubusercontent.com/facundoavila306-spec/trawun-mapu/main/juego/0.68.2/liviano.html",
+ "sha256Liviano": "d0b5035660de42c075df7478a20b077723855db74d580817273eb9e4b3452c48",
+ "bytesLiviano": 9128986,
  "paquetes": [
   {
    "nombre": "edificios",
